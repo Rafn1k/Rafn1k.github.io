@@ -9,25 +9,39 @@
 ## What is the SU-122?
 
 > ### The SU-122 was the major variant of the successful T-34 chassis. After the first German Sturmgeschütz assault guns were seen in operations, an order was issued in April 1942 to several design bureaus to devise plans for a prototype SPG. Many heavy guns were tested in the process. It was seen the assault gun formula amassed the advantages of a cheaper, easier produced vehicle with the use of heavier guns, albeit with the disadvantage of having to turn the entire vehicle to aim in combat. In the end, both 122 mm (4.8 in) and 152 mm (5.98 in) field howitzers were retained. Only the 122 mm (4.8 in), developed by F. F. Pietrow's design bureau as the M-30S, was found suitable for a medium tank chassis.
-[The SU-122](https://www.tanks-encyclopedia.com/ww2/soviet/soviet_SU-122.php)
-
-# The Wirbelwind or "Whirlwind"
+## SU-122 Developement
+> ### The Samokhodnaya Ustanovka 122 mm (4.8 in) or, in short, SU-122, was not at first a satisfactory model. The gun elevation was poor (initially designed for −3° and +26° with a 10° of traverse), the crew compartment was poorly ventilated and the crew was badly placed. All these defaults were corrected, as well as other minor modifications for mass-production. A slightly less sloped glacis (still 45 mm/1.77 in thick, almost 80 mm/3.15 in effective), simplified slits, rearranged fighting compartment layout, an increase in ammunition carried and a more efficient commander periscope. The SU-122 was 70 cm (2.3 ft) lower, which meant it was more difficult to hit than an average T-34. The gun itself was protected by its own massive mantlet, encapsulating the receiver, fume extractor and a muzzle brake, protruding from the glacis. There were no auxiliary weapons, the crew being only protected by their own automatic Makaroff revolvers. Production began in December 1942 and went well until early 1944.
+### [The SU-122](https://www.tanks-encyclopedia.com/ww2/soviet/soviet_SU-122.php)
+---
+# The Wirbelwind/"Whirlwind"/"Keksdose"(Biscuit Tin)
 ![alt text](https://i.pinimg.com/736x/3d/da/59/3dda59263f8ee67418dca52b619813e5.jpg)
 ## What is the Wirbelwind?
 > ### The Flakpanzer IV Wirbelwind's first prototype appeared in 1944 and mainly all Wirbelwinds were then assigned to Flugabwehrzüge units or mobile air defense units designed to protect standard Wehrmacht units from low flying aircraft. By the time World War II ended in Europe, around 105-110 Wirbelwinds had been produced.[3] They were produced by Ostbau and in 1945 Soviet troops forced the Ostbau factory to move from Silesia to Teplitz which is northwest of Berlin. However, the shift left production at a halt and the further Wirbelwind contracts were cancelled regardless in favor of the newer Flakpanzer IV Kugelblitz with two high-velocity 30 mm anti-aircraft guns to take on tougher, more advanced aircraft.
-[The Wirbelwind](https://ww2-history.fandom.com/wiki/Flakpanzer_IV_Wirbelwind)
-
+## Wirbelwind Developement
+> ### The design called for use of the proven Panzer IV design. The Wirbelwind uses the Panzer IV hull, but the original Panzer IV turret was removed and replaced with an open-topped nine-sided turret that mounted the anti-aircraft armament. The anti-aircraft armament chosen for the vehicle was a quadruple mounted 2 cm FlaK 38. Though a closed-top turret design was desired, the number of gasses given out by the gun made this impossible for the crew. The production of the Wirbelwind commenced at the Ostbau Werke at Sagan, Silesia. Between 87 to 105 Wirbelwinds were manufactured from May to November 1944, with the discrepancies due to differences in the Wehrmacht service records and Ostbau Werke's production records.
+### [The Wirbelwind](https://ww2-history.fandom.com/wiki/Flakpanzer_IV_Wirbelwind)
+---
 # The Crusader Mark II
 ![alt text](https://i.pinimg.com/originals/7e/98/6e/7e986e260e93fbf1077e4fb7faabc73a.jpg)
 ## What is the Crusader II?
-> ###
-
+> ### Crusader, in full "Tank, Cruiser Mk VI, Crusader", also known by its General Staff number A.15, was one of the primary British cruiser tanks during the early part of the Second World War. Over 5,000 tanks were manufactured and they made important contributions to the British victories during the North African campaign. The Crusader tank would not see active service beyond Africa, but the chassis of the tank was modified to create anti-aircraft, fire support, observation, communication, bulldozer and recovery vehicle variants.
+## Crusader II Production
+> ### The Crusader features a new design that differs from its cruiser tank predecessors. The Christie suspension system on the Crusader had five road wheels for it instead of the usual four, which improves weight distribution of the increased 20 ton weight of the Crusader compared to the 14 tons of the A13 cruisers. The engine, steering system, and cooling system on the Crusader was different as well, but the Covenanter and Crusader use the same main turret. The polygonal shape of the turret gives the crew inside more room for the turret ring diameter. The Crusader Mk.II was equipped with the 2-pounder, which was aimed by the gunner inside with a padded shaft that allows them to elevate the gun by simply adjusting his own height.
+### [The Crusader Mark II](https://en.wikipedia.org/wiki/Crusader_tank)
+---
 # The Char de bataille B1 bis or "B1 bis"
-![alt text](https://i.pinimg.com/736x/3d/da/59/3dda59263f8ee67418dca52b619813e5.jpg)
+![alt text](https://4.bp.blogspot.com/-h3FXyeheXdI/WSdI-U8qadI/AAAAAAAANgM/gZk1qK2-XE0Dj2lxfSBEYsIEy2vR141-wCLcB/s1600/charbp5s01-397690fcb22a4378e2e2da899b344b73.jpg)
 ## What is the B1 bis?
-> ### The B1 Bis is arguably the most famous and popular French tank of the 1940 campaign. A very notable design, featuring thick armor and a combination of anti-tank and anti-infantry firepower with the turreted 47 mm and hull-mounted 75 mm guns, the vehicle has a considerable reputation as the most potent vehicle of the French Army of 1940 and a major headache for the Germans. However, as often with the French military of 1940, the reality is more complex and less glamorous, with the B1 Bis proving to be a troublesome beast to operate, maintain and produce
-
-# The Panther A
-![alt text](https://i.pinimg.com/736x/3d/da/59/3dda59263f8ee67418dca52b619813e5.jpg)
-## What is the Panther A?
-> ###
+> ### The B1 Bis is arguably the most famous and popular French tank of the 1940 campaign. A very notable design, featuring thick armor and a combination of anti-tank and anti-infantry firepower with the turreted 47 mm and hull-mounted 75 mm guns, the vehicle has a considerable reputation as the most potent vehicle of the French Army of 1940 and a major headache for the Germans. However, as often with the French military of 1940, the reality is more complex and less glamorous, with the B1 Bis proving to be a troublesome beast to operate, maintain and produce.
+## Char B1 bis Production
+> ### As early as 1935, tests of higher weight loads were performed on B1 n°101, the first mild steel prototype, which had become somewhat of a “mule” to experiment on. After finding out that the B1 was still viable with a higher weight load, thicker plates were added to the design. The front hull went from 40 to 60 mm of thickness, with this upgrade requiring some changes, notably, the upper front plate had to be angled differently, at 45° instead of 57° on the B1. The sides were up-armored to 55 mm, the rear was 50 mm thick, and the engine deck 25 mm. In order to keep the tank’s mobility decent, a more powerful version of the engine used on the B1 had to be adopted. Though the engine design was the same overall, it was boosted to produce up to 307 hp instead of 272. The first order for 35 B1 bis did still use the older B1 engine though, and was later given a retrofit kit to upgrade their engines. The turret was another major difference between the B1 and the B1 Bis. While the B1 used the APX 1, the B1 Bis had the APX 4. While largely based on the APX 1, the APX 4 was, notably, up-armored to 56 mm on all sides, from 40 mm on the original design. The cupola was uparmored to 48 mm, and the roof to 30 mm. This turret’s main armament was the new 47mm SA 35, which offered a higher muzzle velocity and far better anti-tank performances in comparison to the B1’s SA 34. The APX 4 also featured different vision slots on the sides of the turret.
+### [The B1 bis](https://tanks-encyclopedia.com/ww2/france/char_b1_bis.php)
+---
+# The Pz.Kpfw. V Ausf. A or Panther (A)
+![alt text](https://www.19fortyfive.com/wp-content/uploads/2022/04/Panther-Tank-1.jpg)
+## What is the Panther (A)?
+> ### The Panther development started as far back as 1938 as a replacement to the Panzer IIIs and Panzer IVs. The program was called VK 20 and it called for a 20 ton tracked vehicle design by Krupp, Daimler-Benz, and MAN. Krupp dropped out when the requirements changed to 30 tones in 1941 when the German encounters the Soviet T-34 and KV-1 tanks where the Panzer III and Panzer IV's performance have little effect due to its superior armour, mobility, and armament
+## Panther (A) Production
+> ### The MAN design for the Panther featured a heavily sloped armour design, with the front glacis plate being 80 mm thick (from the original 60 mm before the weight increase) and when sloped at 55 degrees, it was 140 mm effective in thickness. This made the Panther one of the best-armoured vehicle in World War II. The side armour of the Panther was way thinner at 40 mm that could be pierced very easily. Additional side armour in the form of Schürzen could be placed on the sides hanging to cover the suspension and hull side from being penetrated by Soviet anti-tank rifle fire. The Panther used the same engine as the Tiger I, the Mayback HL 210 P30 engine, and had a similar suspension system, the Schachtellaufwerk interleaved wheel system, which complicated maintenance issues. The tank used the formidable 7.5 cm Kwk 42 cannon, which could destroy most of the allied tanks in service, only possess a mediocre HE shell.
+### [The Panther Family](https://wiki.warthunder.com/Panther_A)
+---
