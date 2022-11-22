@@ -7,7 +7,7 @@
 > - Tanks have been classified by weight, role, or other criteria, that has changed over time and place. Classification is determined by the prevailing theories of armoured warfare, which have been altered in turn by rapid advances in technology. No one classification system works across all periods or all nations; in particular, weight-based classification is inconsistent between countries and eras.
 > - [What are Tanks?](https://en.wikipedia.org/wiki/Tank#Classification) 
 
-# The SU-122 SPG
+# **The SU-122 SPG**
 ![alt text](https://www.worldwarphotos.info/wp-content/gallery/ussr/spg/su-122/su-122_4.jpg)
 
 ## What is the SU-122?
@@ -48,7 +48,7 @@
 > ### As early as 1935, tests of higher weight loads were performed on B1 n°101, the first mild steel prototype, which had become somewhat of a “mule” to experiment on. After finding out that the B1 was still viable with a higher weight load, thicker plates were added to the design. The front hull went from 40 to 60 mm of thickness, with this upgrade requiring some changes, notably, the upper front plate had to be angled differently, at 45° instead of 57° on the B1. The sides were up-armored to 55 mm, the rear was 50 mm thick, and the engine deck 25 mm. In order to keep the tank’s mobility decent, a more powerful version of the engine used on the B1 had to be adopted. Though the engine design was the same overall, it was boosted to produce up to 307 hp instead of 272. The first order for 35 B1 bis did still use the older B1 engine though, and was later given a retrofit kit to upgrade their engines. The turret was another major difference between the B1 and the B1 Bis. While the B1 used the APX 1, the B1 Bis had the APX 4. While largely based on the APX 1, the APX 4 was, notably, up-armored to 56 mm on all sides, from 40 mm on the original design. The cupola was uparmored to 48 mm, and the roof to 30 mm. This turret’s main armament was the new 47mm SA 35, which offered a higher muzzle velocity and far better anti-tank performances in comparison to the B1’s SA 34. The APX 4 also featured different vision slots on the sides of the turret.
 ### [The B1 bis](https://tanks-encyclopedia.com/ww2/france/char_b1_bis.php)
 ---
-# The Pz.Kpfw. V Ausf. A or Panther (A)
+# The Panther V Family
 ![alt text](https://www.19fortyfive.com/wp-content/uploads/2022/04/Panther-Tank-1.jpg)
 ## What is the Panther (A)?
 > ### The Panther development started as far back as 1938 as a replacement to the Panzer IIIs and Panzer IVs. The program was called VK 20 and it called for a 20 ton tracked vehicle design by Krupp, Daimler-Benz, and MAN. Krupp dropped out when the requirements changed to 30 tones in 1941 when the German encounters the Soviet T-34 and KV-1 tanks where the Panzer III and Panzer IV's performance have little effect due to its superior armour, mobility, and armament
