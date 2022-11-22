@@ -1,10 +1,10 @@
 # Welcome to Rafn1k's Github page
 ----------- 
 # What are Tanks?
+![alt text](https://upload.wikimedia.org/wikipedia/commons/f/f8/Bundesarchiv_Bild_146-1975-102-14A%2C_Panzer_VI_%28Tiger_II%2C_K%C3%B6nigstiger%29.jpg)
 > - They are heavily armed and armoured combat vehicle that moves on two endless metal chains called tracks. Tanks are essentially weapons platforms that make the weapons mounted in them more effective by their cross-country mobility and by the protection they provide for their crews.
 
 > - Tanks have been classified by weight, role, or other criteria, that has changed over time and place. Classification is determined by the prevailing theories of armoured warfare, which have been altered in turn by rapid advances in technology. No one classification system works across all periods or all nations; in particular, weight-based classification is inconsistent between countries and eras.
-
 > - [What are Tanks?](https://en.wikipedia.org/wiki/Tank#Classification) 
 
 # The SU-122 SPG
@@ -26,7 +26,7 @@
 ---
 # The Wirbelwind/"Whirlwind"/"Keksdose"(Biscuit Tin)
 ![alt text](https://i.pinimg.com/736x/3d/da/59/3dda59263f8ee67418dca52b619813e5.jpg)
-## What is the Wirbelwind?
+## What is the ~~Funny Tin Can~~Wirbelwind?
 > ### The Flakpanzer IV Wirbelwind's first prototype appeared in 1944 and mainly all Wirbelwinds were then assigned to Flugabwehrzüge units or mobile air defense units designed to protect standard Wehrmacht units from low flying aircraft. By the time World War II ended in Europe, around 105-110 Wirbelwinds had been produced.[3] They were produced by Ostbau and in 1945 Soviet troops forced the Ostbau factory to move from Silesia to Teplitz which is northwest of Berlin. However, the shift left production at a halt and the further Wirbelwind contracts were cancelled regardless in favor of the newer Flakpanzer IV Kugelblitz with two high-velocity 30 mm anti-aircraft guns to take on tougher, more advanced aircraft.
 ## Wirbelwind Developement
 > ### The design called for use of the proven Panzer IV design. The Wirbelwind uses the Panzer IV hull, but the original Panzer IV turret was removed and replaced with an open-topped nine-sided turret that mounted the anti-aircraft armament. The anti-aircraft armament chosen for the vehicle was a quadruple mounted 2 cm FlaK 38. Though a closed-top turret design was desired, the number of gasses given out by the gun made this impossible for the crew. The production of the Wirbelwind commenced at the Ostbau Werke at Sagan, Silesia. Between 87 to 105 Wirbelwinds were manufactured from May to November 1944, with the discrepancies due to differences in the Wehrmacht service records and Ostbau Werke's production records.
