@@ -2,9 +2,7 @@
 ----------- 
 # What are Tanks?
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/f/f8/Bundesarchiv_Bild_146-1975-102-14A%2C_Panzer_VI_%28Tiger_II%2C_K%C3%B6nigstiger%29.jpg)
-> - They are heavily armed and armoured combat vehicle that moves on two endless metal chains called tracks. Tanks are essentially weapons platforms that make the weapons mounted in them more effective by their cross-country mobility and by the protection they provide for their crews.
-
-> - Tanks have been classified by weight, role, or other criteria, that has changed over time and place. Classification is determined by the prevailing theories of armoured warfare, which have been altered in turn by rapid advances in technology. No one classification system works across all periods or all nations; in particular, weight-based classification is inconsistent between countries and eras.
+> - They are heavily armed and armoured combat vehicle that moves on two endless metal chains called tracks. Tanks are essentially weapons platforms that make the weapons mounted in them more effective by their cross-country mobility and by the protection they provide for their crews. They have been classified by weight, role, or other criteria, that has changed over time and place. Classification is determined by the prevailing theories of armoured warfare, which have been altered in turn by rapid advances in technology. No one classification system works across all periods or all nations; in particular, weight-based classification is inconsistent between countries and eras.
 > - [What are Tanks?](https://en.wikipedia.org/wiki/Tank#Classification) 
 
 # **The SU-122 SPG**
@@ -23,7 +21,16 @@
 > ### The SU-122 was not meant to deal with other tanks, but only with German fortified positions, strongholds and ranged infantry support, which came at the right moment when the German army was in a full retreat behind successive defensive lines.On several occasions some SU-122s had to deal against enemy tanks, including the Tiger, especially at Kursk during the summer of 1943. They used their howitzer HE rounds to dislodge turrets and break tracks by brute percussion force. This same year, a new projectile was introduced in limited provisions especially to deal with these targets, the BP-460A HEAT. But both this and the classic HE were only efficient at close range, in a quite dangerous way.
 
 ## SU-122 Specifications:
--
+> - ### Dimensions :	6.95(oa) x 3 x 2.32 m (22.8x9.84x8.04 ft)
+> - ### Total weight, battle ready:	30.9 tons
+> - ### Crew:	5
+> - ### Propulsion:	Klimov diesel V12, 493 bhp
+> - ### Speed: (road)	55 km/h (34 mph)
+> - ### Range:	400 km (248 mi)
+> - ### Armament:	122 mm (4.8 in) M-30S howitzer
+> - ### Armor	Max: 45m m (1.77in)
+> - ### Total production:	1150
+
 
 ### [The SU-122](https://www.tanks-encyclopedia.com/ww2/soviet/soviet_SU-122.php)
 ---
