@@ -78,33 +78,33 @@
 > ### In May 1940, 243 B1 bis were deployed in combat units, out of 368 built. They formed the main striking force of France's four armoured divisions, with two battalions in each division, as well as five other independent tank companies (10 tanks per company). In the 1940 Battle for France, only the German 88 mm guns could reliably defeat the B1 bis. Most were lost due to breakdown or fuel shortage. 161 B1 bis were captured by Germany, who replaced the 75 mm with a flamethrower in 60 of them, which served in France, Holland (including at Arnhem), the Balkans and Crimea. Another 16 were converted to self-propelled 105 mm howitzers. The Free French 13th Dragoons employed a squadron of 17 recaptured B1 bis in combat in 1945.
 
 ## Char B1 bis Specifications:
->### Dimensions (l-w-h)	6.37 x 2.58 x 2.79 m
->### Ground Clearance	0.48m
->### Total weight	31,500 kg
->### Engine	Renault 6-cylinders 16,625 cm3, 307 hp at 1,900 rpm petrol
-Transmission	5 forward + 1 reverse
-Power-to-weight ratio (in hp/ton)	9.5 hp/ton
-Ground Pressure	13.9 kg/cm²
-Track width	50 cm
-Track links	63 per side
-Trench crossing	2.75 m
-Step	1.18 m
-Turning radius	1.20 m
-Maximum slope crossing	40.5°
-Crew	4 (Commander/gunner/loader, driver/gunner, loader, radio)
-Main armament	75 mm SA 35 infantry support gun with 74 shells; 47 mm SA 35 anti-tank gun with 50 shells
-Secondary armament	2x MAC 31E 7.5 mm machine gun with 5,250 rounds
-Hull Armor	60 mm (front)
-55 mm (sides)
-50 mm (rear)
-Turret armor	56 mm (all sides)
-48 mm (cupola)
-30 mm (roof)
-Radio	ER 53
-Fuel tanks	400 litres
-Range	160 km
-Autonomy	6 to 8 hours
-Production numbers	~369
+> - ### Dimensions (l-w-h)	6.37 x 2.58 x 2.79 m
+> - ### Ground Clearance	0.48m
+> - ### Total weight	31,500 kg
+> - ### Engine	Renault 6-cylinders 16,625 cm3, 307 hp at 1,900 rpm petrol
+> - ### Transmission	5 forward + 1 reverse
+> - ### Power-to-weight ratio (in hp/ton)	9.5 hp/ton
+> - ### Ground Pressure	13.9 kg/cm²
+> - ### Track width	50 cm
+> - ### Track links	63 per side
+> - ### Trench crossing	2.75 m
+> - ### Step	1.18 m
+> - ### Turning radius	1.20 m
+> - ### Maximum slope crossing	40.5°
+> - ### Crew	4 (Commander/gunner/loader, driver/gunner, loader, radio)
+> - ### Main armament	75 mm SA 35 infantry support gun with 74 shells; 47 mm SA 35 anti-tank gun with 50 shells
+> - ### Secondary armament	2x MAC 31E 7.5 mm machine gun with 5,250 rounds
+> - ### Hull Armor	60 mm (front)
+> - ### 55 mm (sides)
+> - ### 50 mm (rear)
+> - ### Turret armor	56 mm (all sides)
+> - ### 48 mm (cupola)
+> - ### 30 mm (roof)
+> - ### Radio	ER 53
+> - ### Fuel tanks	400 litres
+> - ### Range	160 km
+> - ### Autonomy	6 to 8 hours
+> - ### Production numbers	~369
 ---
 ### [The B1 bis](https://tanks-encyclopedia.com/ww2/france/char_b1_bis.php)
 
