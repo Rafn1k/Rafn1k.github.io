@@ -78,33 +78,33 @@
 > ### In May 1940, 243 B1 bis were deployed in combat units, out of 368 built. They formed the main striking force of France's four armoured divisions, with two battalions in each division, as well as five other independent tank companies (10 tanks per company). In the 1940 Battle for France, only the German 88 mm guns could reliably defeat the B1 bis. Most were lost due to breakdown or fuel shortage. 161 B1 bis were captured by Germany, who replaced the 75 mm with a flamethrower in 60 of them, which served in France, Holland (including at Arnhem), the Balkans and Crimea. Another 16 were converted to self-propelled 105 mm howitzers. The Free French 13th Dragoons employed a squadron of 17 recaptured B1 bis in combat in 1945.
 
 ## Char B1 bis Specifications:
-> - ### Dimensions (l-w-h)	6.37 x 2.58 x 2.79 m
-> - ### Ground Clearance	0.48m
-> - ### Total weight	31,500 kg
-> - ### Engine	Renault 6-cylinders 16,625 cm3, 307 hp at 1,900 rpm petrol
-> - ### Transmission	5 forward + 1 reverse
-> - ### Power-to-weight ratio (in hp/ton)	9.5 hp/ton
-> - ### Ground Pressure	13.9 kg/cm²
-> - ### Track width	50 cm
-> - ### Track links	63 per side
-> - ### Trench crossing	2.75 m
-> - ### Step	1.18 m
-> - ### Turning radius	1.20 m
-> - ### Maximum slope crossing	40.5°
-> - ### Crew	4 (Commander/gunner/loader, driver/gunner, loader, radio)
-> - ### Main armament	75 mm SA 35 infantry support gun with 74 shells; 47 mm SA 35 anti-tank gun with 50 shells
-> - ### Secondary armament	2x MAC 31E 7.5 mm machine gun with 5,250 rounds
-> - ### Hull Armor	60 mm (front)
-> - ### 55 mm (sides)
-> - ### 50 mm (rear)
-> - ### Turret armor	56 mm (all sides)
+> - ### |Dimensions: (l-w-h)	6.37 x 2.58 x 2.79 m|
+> - ### |Ground Clearance:	0.48m|
+> - ### |Total weight:	31,500 kg|
+> - ### |Engine:	Renault 6-cylinders 16,625 cm3, 307 hp at 1,900 rpm petrol|
+> - ### |Transmission:	5 forward + 1 reverse|
+> - ### |Power-to-weight ratio: (in hp/ton)	9.5 hp/ton|
+> - ### |Ground Pressure:	13.9 kg/cm²|
+> - ### Track width:	50 cm
+> - ### Track links:	63 per side
+> - ### Trench crossing:	2.75 m
+> - ### Step:	1.18 m
+> - ### Turning radius:	1.20 m
+> - ### Maximum slope crossing:	40.5°
+> - ### Crew	4: (Commander/gunner/loader, driver/gunner, loader, radio)
+> - ### Main armament:	75 mm SA 35 infantry support gun with 74 shells; 47 mm SA 35 anti-tank gun with 50 shells
+> - ### Secondary armament:	2x MAC 31E 7.5 mm machine gun with 5,250 rounds
+> - ### Hull Armor:	60 mm (front)
+> - ### 55 mm: (sides)
+> - ### 50 mm: (rear)
+> - ### Turret armor:	56 mm (all sides)
 > - ### 48 mm (cupola)
 > - ### 30 mm (roof)
-> - ### Radio	ER 53
-> - ### Fuel tanks	400 litres
-> - ### Range	160 km
-> - ### Autonomy	6 to 8 hours
-> - ### Production numbers	~369
+> - ### Radio:	ER 53
+> - ### Fuel tanks:	400 litres
+> - ### Range:	160 km
+> - ### Autonomy:	6 to 8 hours
+> - ### Production numbers:	~369
 ---
 ### [The B1 bis](https://tanks-encyclopedia.com/ww2/france/char_b1_bis.php)
 
@@ -119,10 +119,24 @@
  - ## Panther D(evelopement)
 > ### The first production Panther tank was the Ausf.D not the Ausf.A. This confuses many people. In the past German tank versions started with the letter A and then went on to B, C, D etc. In January 1943 M.A.N produced the first production series Panther Ausf.D tank. ‘Ausf’ is an abbreviation for the German word ‘Ausfuehrung’ which means version. The Panzer V Ausf.D Panther tank Fahrgestell-Nummer Serie chassis numbers range from 210001 to 210254 and 211001 to 213220. The Panther development started as far back as 1938 as a replacement to the Panzer IIIs and Panzer IVs. The program was called VK 20 and it called for a 20 ton tracked vehicle design by Krupp, Daimler-Benz, and MAN. Krupp dropped out when the requirements changed to 30 tones in 1941 when the German encounters the Soviet T-34 and KV-1 tanks where the Panzer III and Panzer IV's performance have little effect due to its superior armour, mobility, and armament. The VK 20 was abandoned for the VK 30.02 in April 1942. Daimler-Benz design for this project looks similar to the T-34 with the turret far forward in the hull, plus the use of a diesel engine and external leaf spring suspension. MAN's design had a twin torsion bar, the interleaved suspension system (like the Tiger I) with the turret situated in the middle of the hull, plus had a petrol Maybach engine. Hitler was reported to believe that the DB design was superior to the MAN design, and in a review between January to March 1942, Fritz Todt and Albert Speer also recommended the DB design.
 
-- ## Panther D(esign) and performance
-> ###
+- ## Panther D(esign) and Performance
+![alt text](https://scontent.fmnl3-3.fna.fbcdn.net/v/t1.15752-9/311960598_542400544369235_7513564474249944532_n.jpg?stp=dst-jpg_p403x403&_nc_cat=111&ccb=1-7&_nc_sid=aee45a&_nc_ohc=wRs333WO6JUAX-x7uuD&_nc_ht=scontent.fmnl3-3.fna&oh=03_AdT3YJXp9iuPSWlzL1usG6BDICYZ4gJZAo7lVwRJMc_A2g&oe=63A678FF)
+> ### The Ausf. D variant was the first variant designed for the Panther, easily distinguishable by its drum-shaped commander cupola. The Ausf. D can also be distinguished by a unique machine gun port with a shape of a vertical "letterbox" flap from where the machine gun was fired (this was replaced by a standard ball mount in later variants). The Ausf. D also had the initial turret curved gun mantlet that was introduced to the Panther, though there were faults with the design as explained below. 842 Panther Ausf. D was produced from January to September 1943. The MAN design for the Panther featured a heavily sloped armour design, with the front glacis plate being 80 mm thick (from the original 60 mm before the weight increase) and when sloped at 55 degrees, it was 140 mm effective in thickness. This made the Panther one of the best-armoured vehicle in World War II. The side armour of the Panther was way thinner at 40 mm that could be pierced very easily. Additional side armour in the form of Schürzen could be placed on the sides hanging to cover the suspension and hull side from being penetrated by Soviet anti-tank rifle fire.
+> ### The Panther was first issued to the Eastern Front, arming the 51st and 52nd Tank Battalions. Their usage presented mechanical problems of the Panther, forcing many of the early Panthers to be returned for rebuilding. Despite these issues, the Panther was deemed critical in the Battle of Kursk in Operation Citadel, Hitler delayed the operation so more Panthers can reach the front. 200 Panthers were ready in June 1943, but its combat debut was disappointing. The Panthers, which arrived last minute before the operation started, meant that the crew serving the tanks had little time to train with the new tanks. Two tanks were lost to motor fires right after disembarking from the trains at the front lines. 184 were operational at the start of the operation on July 5, this dropped to 40 within two days. According to Heinz Guderian, five days into the offensive, only 10 operation Panthers were available with 25 completely lost, 100 in need of repairs, and 60 per cent of those mechanical breakdowns were easily repaired. Those that did work during the campaign were able to cause heavy casualties on the Soviet tank forces, but the Panther's lethality was mitigated by its low number available. When the operation turned and the Soviet counteroffensive pushed the Germans away from Kursk, the Panther loss rose to 156 on August 11, with many more lost as the Soviet kept gaining ground. Perhaps the Panther's biggest role in Operation Citadel was delaying the start of the operation by two months to allow the Soviet defences to be bolstered beyond the German's expectations, causing the failure of the offensive.
 
 - ## The Tank's Specificaions:
-
+Dimensions: (L-W-H)	8.86 m x 3.27 m x 2.99 m
+(29ft 1in x 10ft 9in x 9ft 10in)
+Total weight, battle ready:	44.8 tonnes
+Main Armament	Main: 7.5 cm Kw.K.42 L/70, 82 rounds
+Secondary Armament:	2x 7.92 mm MG 34 machine guns
+Armor:	16 to 80 mm (Turret front: 100-110 mm)
+Crew:	5 (commander, driver, gunner, loader, radioman/machine gunner)
+Propulsion:	Maybach HL 210 (or 230) V12 water cooled 650hp gasoline/petrol engine
+Transmission:	ZF AK 7-200 7-forward/1-reverse gearbox
+Suspensions:	Double torsion bars and interleaved wheels
+Max Road Speed:	55 km/h (34 mph)
+Operational range:	200 km (124 miles)
+Production:	842 approx.
 
 ---
