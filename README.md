@@ -69,6 +69,8 @@
 
 ## Wirbelwind Developement
 
+<iframe width="853" height="480" src="https://www.youtube.com/embed/5QojzjMHhnM" title="Rare WWII Wirbelwind Footage   Flakpanzer IV" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 > #### The design called for use of the proven Panzer IV design. The Wirbelwind uses the Panzer IV hull, but the original Panzer IV turret was removed and replaced with an open-topped nine-sided turret that mounted the anti-aircraft armament. The anti-aircraft armament chosen for the vehicle was a quadruple mounted 2 cm FlaK 38. Though a closed-top turret design was desired, the number of gasses given out by the gun made this impossible for the crew. The production of the Wirbelwind commenced at the Ostbau Werke at Sagan, Silesia. Between 87 to 105 Wirbelwinds were manufactured from May to November 1944, with the discrepancies due to differences in the Wehrmacht service records and Ostbau Werke's production records.
 
 ## The Biscuit Tin's Design and Performance
@@ -123,6 +125,8 @@
 
 ## Crusader II Production
 
+<iframe width="853" height="480" src="https://www.youtube.com/embed/LQ7DBIU5B-A" title="Tank Mk VI (A15) "CRUSADER", Tank Mk III "VALENTINE"" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 > #### In 1938, the General Staff of the British Army requested for a cruiser tank that was lighter and more affordable than the heavier A16 cruiser design developed by Nuffield Mechanizations & Aero. One of these designs was the designation Tank, Cruiser Mk.V based off the A13 cruiser tanks, named the "Covenanter", and Nuffield was invited to become part of its development team, but they refused due to interest in developing their own cruiser tank. Their tank was designated the Tank, Cruiser Mk.VI Crusader and fell under the General Staff specification of A15. The Crusader was a parallel design to the Covenanter, but was ready six weeks earlier than the Covenanter despite starting at a later time. The Crusader was adopted into service with the British Army in 1941 and the 5,300 units were manufactured between 1940 to 1943.
 
 ## Crusader II's Design and Performance:
@@ -174,6 +178,8 @@
 > #### The B1 Bis is arguably the most famous and popular French tank of the 1940 campaign. A very notable design, featuring thick armor and a combination of anti-tank and anti-infantry firepower with the turreted 47 mm and hull-mounted 75 mm guns, the vehicle has a considerable reputation as the most potent vehicle of the French Army of 1940 and a major headache for the Germans. However, as often with the French military of 1940, the reality is more complex and less glamorous, with the B1 Bis proving to be a troublesome beast to operate, maintain and produce.
 
 ## Char B1 bis Production
+
+<iframe width="853" height="480" src="https://www.youtube.com/embed/_5ECKnnta1Q" title="Rare Char B1 BIS WW2 Footage." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 > #### As early as 1935, tests of higher weight loads were performed on B1 n°101, the first mild steel prototype, which had become somewhat of a “mule” to experiment on. After finding out that the B1 was still viable with a higher weight load, thicker plates were added to the design. The front hull went from 40 to 60 mm of thickness, with this upgrade requiring some changes, notably, the upper front plate had to be angled differently, at 45° instead of 57° on the B1. The sides were up-armored to 55 mm, the rear was 50 mm thick, and the engine deck 25 mm. In order to keep the tank’s mobility decent, a more powerful version of the engine used on the B1 had to be adopted. Though the engine design was the same overall, it was boosted to produce up to 307 hp instead of 272. The first order for 35 B1 bis did still use the older B1 engine though, and was later given a retrofit kit to upgrade their engines. The turret was another major difference between the B1 and the B1 Bis. While the B1 used the APX 1, the B1 Bis had the APX 4. While largely based on the APX 1, the APX 4 was, notably, up-armored to 56 mm on all sides, from 40 mm on the original design. The cupola was uparmored to 48 mm, and the roof to 30 mm. This turret’s main armament was the new 47mm SA 35, which offered a higher muzzle velocity and far better anti-tank performances in comparison to the B1’s SA 34. The APX 4 also featured different vision slots on the sides of the turret.
 
@@ -254,7 +260,9 @@
 
 > #### The Panther tank, officially Panzerkampfwagen V Panther (abbreviated PzKpfw V) with ordnance inventory designation: Sd.Kfz. 171, is a German medium tank of World War II. It was used on the Eastern and Western Fronts from mid-1943 to the end of the war in May 1945. Panther tanks first saw action on the Eastern fronts. They were also used in Italy, France, Belgium and Holland. They took part in the Ardennes offensive, the battle of the Bulge plus the defence of Germany. It had better cross-country mobility than the Tiger tank and had the same if not more hitting power, with its 7.5 cm Kw.K 42 L/70 long barrelled high velocity anti-tank gun. Around 6,000 were produced. The use of sloped armor kept the weight of the tank down but maintained its protection level. The angled front 80 mm armor glacis plate gave more protection than the Tiger tank’s 100 mm vertical armour plate. This fact is not often mentioned. An enemy’s standard armour piercing round fired from directly in front of the tank hitting the glacis plate in a straight line had to penetrate 139 mm (5.4 inches) of armor due to the angle of the armour. If the enemy tank was firing at the front of a Panther tank but at a 45 degree angle to it, the shell would have to pass through 197 mm (7.7 inches) of armor. Enemy tank crews always tried to out flank Panther tanks to fire at its more vulnerable side or rear armor. German Panther tank crew’s tactics involved presenting their frontal armour towards enemy tanks as much as possible. The Panther was born out of the shock of combat on the Eastern Front during the 1941 Operation Barbarossa. There, German units first met the T-34 and KV-1 tanks which posed significant problems to the German tank and anti-tank cannons. This led to the start of development of the VK30.01(D) and VK30.02(M), the two designs that would compete to become the Panzerkampfwagen V. The MAN design would go on to be selected and rushed into production.
 
- - ## Panther D(evelopement)
+ ## Panther D(evelopement)
+
+<iframe width="853" height="480" src="https://www.youtube.com/embed/xt0h5ySCPE8" title="Rare WW2 Footage - PzKpfw V Panther - No Music, Pure Sound" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  
 > #### The first production Panther tank was the Ausf.D not the Ausf.A. This confuses many people. In the past German tank versions started with the letter A and then went on to B, C, D etc. In January 1943 M.A.N produced the first production series Panther Ausf.D tank. ‘Ausf’ is an abbreviation for the German word ‘Ausfuehrung’ which means version. The Panzer V Ausf.D Panther tank Fahrgestell-Nummer Serie chassis numbers range from 210001 to 210254 and 211001 to 213220. The Panther development started as far back as 1938 as a replacement to the Panzer IIIs and Panzer IVs. The program was called VK 20 and it called for a 20 ton tracked vehicle design by Krupp, Daimler-Benz, and MAN. Krupp dropped out when the requirements changed to 30 tones in 1941 when the German encounters the Soviet T-34 and KV-1 tanks where the Panzer III and Panzer IV's performance have little effect due to its superior armour, mobility, and armament. The VK 20 was abandoned for the VK 30.02 in April 1942. Daimler-Benz design for this project looks similar to the T-34 with the turret far forward in the hull, plus the use of a diesel engine and external leaf spring suspension. MAN's design had a twin torsion bar, the interleaved suspension system (like the Tiger I) with the turret situated in the middle of the hull, plus had a petrol Maybach engine. Hitler was reported to believe that the DB design was superior to the MAN design, and in a review between January to March 1942, Fritz Todt and Albert Speer also recommended the DB design.
 
@@ -297,6 +305,6 @@
 
 ---
 
+### [Panther D](https://tanks-encyclopedia.com/ww2/germany/panzer-v_panther.php) 
 
 ---
-
