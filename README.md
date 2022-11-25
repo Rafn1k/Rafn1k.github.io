@@ -36,23 +36,24 @@
 ## SU-122 Specifications:
 
 > - ### Dimensions :	6.95(oa) x 3 x 2.32 m (22.8x9.84x8.04 ft)
-
+>
 > - ### Total weight, battle ready:	30.9 tons
-
+>
 > - ### Crew:	5
-
+>
 > - ### Propulsion:	Klimov diesel V12, 493 bhp
-
+>
 > - ### Speed: (road)	55 km/h (34 mph)
-
+>
 > - ### Range:	400 km (248 mi)
-
+>
 > - ### Armament:	122 mm (4.8 in) M-30S howitzer
-
+>
 > - ### Armor	Max: 45m m (1.77in)
-
+>
 > - ### Total production:	1150
 
+---
 
 ### [The SU-122](https://www.tanks-encyclopedia.com/ww2/soviet/soviet_SU-122.php)
 
@@ -80,25 +81,39 @@
 
 ## The "Keksdode"'s Specifications
 
-Dimensions	5.92 x 2.9 x 2.7 meters (19′ 5” x 9′ 6” x 8′ 10”)
-Total weight, battle ready	22 tonnes
-Crew	5 (Commander/gunner, two loader, driver and radio operator)
-Armament	2 cm Flak 38 Flakvierling.
-Elevation: -10° to +90°
-Armor	Turret: 16mm
-Hull: front 50 to 80 mm, sides 30 mm, rear 20 mm and the bottom 10 mm
-Superstructure: front 50 to 80 mm, sides 30 mm, rear 20 mm and the bottom 10 mm
-Propulsion	HL Maybach 272 hp (200 kW)
-Suspension	Leaf springs
-Speed on /off road	38 km/h (24 mph), 20-25 km/h (12 – 16 mph) (cross country)
-Range (road/off road)	470 liters, 200 km (120 miles), 130 km (80 miles)(cross country)
-Total production	240
+> - ### Dimensions:	5.92 x 2.9 x 2.7 meters (19′ 5” x 9′ 6” x 8′ 10”)
+> 
+> - ### Total weight, battle ready:	22 tonnes
+> 
+> - ### Crew:	5 (Commander/gunner, two loader, driver and radio operator)
+> 
+> - ### Armament:	2 cm Flak 38 Flakvierling.
+> 
+> - ### Elevation: -10° to +90°
+> 
+> - ### Armor	Turret: 16mm
+> 
+> - ### Hull: front 50 to 80 mm, sides 30 mm, rear 20 mm and the bottom 10 mm
+> 
+> - ### Superstructure: front 50 to 80 mm, sides 30 mm, rear 20 mm and the bottom 10 mm
+> 
+> - ### Propulsion:	HL Maybach 272 hp (200 kW)
+> 
+> - ### Suspension:	Leaf springs
+> 
+> - ### Speed on /off road:	38 km/h (24 mph), 20-25 km/h (12 – 16 mph) (cross country)
+> 
+> - ### Range (road/off road):	470 liters, 200 km (120 miles), 130 km (80 miles)(cross country)
+> 
+> - ### Total production:	240
+
+---
 
 ### [The Wirbelwind](https://ww2-history.fandom.com/wiki/Flakpanzer_IV_Wirbelwind)
 
 ---
 
-# 3. The Crusader Mark II
+# 3. The Crusader Mark II (A15)
 
 ![alt text](https://i.pinimg.com/originals/7e/98/6e/7e986e260e93fbf1077e4fb7faabc73a.jpg)
 
@@ -108,7 +123,43 @@ Total production	240
 
 ## Crusader II Production
 
+> #### In 1938, the General Staff of the British Army requested for a cruiser tank that was lighter and more affordable than the heavier A16 cruiser design developed by Nuffield Mechanizations & Aero. One of these designs was the designation Tank, Cruiser Mk.V based off the A13 cruiser tanks, named the "Covenanter", and Nuffield was invited to become part of its development team, but they refused due to interest in developing their own cruiser tank. Their tank was designated the Tank, Cruiser Mk.VI Crusader and fell under the General Staff specification of A15. The Crusader was a parallel design to the Covenanter, but was ready six weeks earlier than the Covenanter despite starting at a later time. The Crusader was adopted into service with the British Army in 1941 and the 5,300 units were manufactured between 1940 to 1943.
+
+## Crusader II's Design and Performance:
+
+![alt text](https://scontent.fceb6-1.fna.fbcdn.net/v/t1.15752-9/314668919_888003992363815_9080949661972813420_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=aee45a&_nc_ohc=kXm8xC9aqYUAX_wNpXi&_nc_ht=scontent.fceb6-1.fna&oh=03_AdRQw59wyWjrDao1JDD79Eba51l68GdP-EvgHAFLRjl5JQ&oe=63A76A13)
+
 > #### The Crusader features a new design that differs from its cruiser tank predecessors. The Christie suspension system on the Crusader had five road wheels for it instead of the usual four, which improves weight distribution of the increased 20 ton weight of the Crusader compared to the 14 tons of the A13 cruisers. The engine, steering system, and cooling system on the Crusader was different as well, but the Covenanter and Crusader use the same main turret. The polygonal shape of the turret gives the crew inside more room for the turret ring diameter. The Crusader Mk.II was equipped with the 2-pounder, which was aimed by the gunner inside with a padded shaft that allows them to elevate the gun by simply adjusting his own height.
+
+> #### The Crusader first saw action at North Africa, right after the British had been pushed back to the Egyptian border by Axis forces. The Crusaders were part of the huge shipment in the Malta Convoys to reequip the British forces there. Enough Crusaders arrive that the entire 6th Royal Tank Regiment was refitted with them, which joined up with the 2nd Royal Tank Regiment to form the 7th Armoured Brigade "Desert Rats". The brigade's first action was in Operation Battleaxe, though it was delayed due to adapting the tanks for the desert environment. The operation, which called for the relieve of the siege of Tobruk in June, was initiated in June to which 11 Crusader tanks were lost to anti-tank guns, plus many more to mechanical faults. While more Crusader tanks came in to reinforce the cruiser tank forces, there were never enough to supply the continuously expanding armoured units as 7th Brigade was combine with the 7th Hussars, the 2nd Armoured Brigade was added to the 7th Armoured Division, and the 8th Hussars was combined with the 4th Armoured Brigade. Overall, the Crusaders proved effective in the North African Campaign, the Crusader was faster than any tanks on the opposing side and the 2-pounder was lethal to the Panzer III, but the tank suffered from its thin armour, mechanical problems in the desert, and the growing deficiency of the 2-pounder, which didn't have enough range to destroy farther tanks. The Crusader design also caused the ammo racks on the tank to easily ignite due to unprotected racks and shot traps on the turret design. Anti-tank guns continue to be the main reason the Crusader units suffer losses, rather than to enemy tank.
+
+## The Tank's Specifications:
+> - ### Dimensions:	19.6 x 9.1 x 7.35 ft (5.97 x 2.77 x 2.24 m)
+> 
+> - ### Total weight, battle ready:	18.8-19.7 tons
+> 
+> - ### Crew: 5 
+> 
+> - ### Propulsion:	Nuffield Liberty V12 27L petrol, 340 bhp@1500 rpm
+> 
+> - ### Speed:
+> 
+> ### -26 mph (42 km/h) onroad
+> 
+> ### -19 mph (30.5 km/h) off-road
+> 
+> - ### Range (off-road/road):	146/200 mi (235/322 km)
+> 
+> - ### Armament	Main: QF 2pdr (40 mm/1.57 in)
+> 
+> - ### QF 6pdr (57 mm/2.24 in) Mk.III
+> - ### 1/2 Besa machine-guns, 5950 rounds
+> 
+> - ### Maximum armor:	40/49/51 mm (1.57/1.93/2 in)
+> 
+> - ### Total production:	5300 from 1940 to 1943
+
+---
 
 ### [The Crusader Mark II](https://en.wikipedia.org/wiki/Crusader_tank)
 
@@ -137,60 +188,61 @@ Total production	240
 ## Char B1 bis Specifications:
 
 > - ### Dimensions: (l-w-h)	6.37 x 2.58 x 2.79 m
-
+>
 > - ### Ground Clearance:	0.48m
-
+>
 > - ### Total weight:	31,500 kg
-
+>
 > - ### Engine:	Renault 6-cylinders 16,625 cm3, 307 hp at 1,900 rpm petrol
-
+>
 > - ### Transmission:	5 forward + 1 reverse
-
+>
 > - ### Power-to-weight ratio: (in hp/ton)	9.5 hp/ton
-
+>
 > - ### Ground Pressure:	13.9 kg/cm²
-
+>
 > - ### Track width:	50 cm
-
+>
 > - ### Track links:	63 per side
-
+>
 > - ### Trench crossing:	2.75 m
-
+>
 > - ### Step:	1.18 m
-
+>
 > - ### Turning radius:	1.20 m
-
+>
 > - ### Maximum slope crossing:	40.5°
-
+>
 > - ### Crew	4: (Commander/gunner/loader, driver/gunner, loader, radio)
-
+>
 > - ### Main armament:	75 mm SA 35 infantry support gun with 74 shells; 47 mm SA 35 anti-tank gun with 50 shells
-
+>
 > - ### Secondary armament:	2x MAC 31E 7.5 mm machine gun with 5,250 rounds
-
+>
 > - ### Hull Armor:	60 mm (front)
-
+>
 > - ### 55 mm: (sides)
-
+>
 > - ### 50 mm: (rear)
-
+>
 > - ### Turret armor:	56 mm (all sides)
-
+>
 > - ### 48 mm (cupola)
-
+>
 > - ### 30 mm (roof)
-
+>
 > - ### Radio:	ER 53
-
+>
 > - ### Fuel tanks:	400 litres
-
+>
 > - ### Range:	160 km
-
+>
 > - ### Autonomy:	6 to 8 hours
-
+>
 > - ### Production numbers:	~369
 
 ---
+>
 ### [The B1 bis](https://tanks-encyclopedia.com/ww2/france/char_b1_bis.php)
 
 ---
@@ -218,30 +270,33 @@ Total production	240
 ---
 
 > - ### Dimensions: (L-W-H)	8.86 m x 3.27 m x 2.99 m
-
+>
 > - ### (29ft 1in x 10ft 9in x 9ft 10in)
-
+>
 > - ### Total weight, battle ready:	44.8 tonnes
-
+>
 > - ### Main Armament	Main: 7.5 cm Kw.K.42 L/70, 82 rounds
-
+>
 > - ### Secondary Armament:	2x 7.92 mm MG 34 machine guns
-
+>
 > - ### Armor:	16 to 80 mm (Turret front: 100-110 mm)
-
+>
 > - ### Crew:	5 (commander, driver, gunner, loader, radioman/machine gunner)
-
+>
 > - ### Propulsion:	Maybach HL 210 (or 230) V12 water cooled 650hp gasoline/petrol engine
-
+>
 > - ### Transmission:	ZF AK 7-200 7-forward/1-reverse gearbox
-
+>
 > - ### Suspensions:	Double torsion bars and interleaved wheels
-
+>
 > - ### Max Road Speed:	55 km/h (34 mph)
-
+>
 > - ### Operational range:	200 km (124 miles)
-
+>
 > - ### Production:	842 approx.
+
+---
+
 
 ---
 
